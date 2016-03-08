@@ -3,6 +3,6 @@
 
 int main(){
 	int number;
-
+	char arr[4];
 	return 0;
 }
